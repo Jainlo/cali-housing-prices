@@ -1,1 +1,2 @@
-# cali-housing-prices
+# California Housing Prices
+## About
