@@ -8,4 +8,4 @@ California Housing Prices on <a href="https://www.kaggle.com/datasets/camnugent/
 - <a href="https://jainlo.github.io/cali-housing-prices">Ridge</a>(./src/ab.ipynb)
 - <a href="https://jainlo.github.io/cali-housing-prices">Lasso</a>(./src/ab.ipynb)
 - <a href="https://jainlo.github.io/cali-housing-prices">XBGRegressor</a>(./src/lujain.ipynb)
-- <a href="https://jainlo.github.io/cali-housing-prices">Random Forest Regressor</a>(./src/lujain.ipynb)
+- <a href="https://jainlo.github.io/cali-housing-prices/src/lujain.ipynb">Random Forest Regressor</a>
