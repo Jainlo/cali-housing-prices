@@ -6,6 +6,6 @@ California Housing Prices on <a href="https://www.kaggle.com/datasets/camnugent/
 - [Linear Regression](./haya.ipynb)
 - [Decision Tree](./src/haya.ipynb)
 - [Ridge](./src/abdulrahman.ipynb)
-- [Lasso](./abdulrahman.ipynb)
+- [Lasso](./src/abdulrahman.ipynb)
 - [XBGRegressor](./src/lujain.ipynb)
 - [Random Forest Regressor](./lujain.ipynb)
