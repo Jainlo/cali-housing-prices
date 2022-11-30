@@ -12,7 +12,7 @@ The dataset used contains information from the 1990 California census which can 
 - Ocean proximity
 ### Target variable is:
 - Median house value
-### A detailed Jupyter notebook report of the EDA, feature engineering and model implementations are included
+## A detailed Jupyter notebook report of the EDA, feature engineering and model implementations are included
 ## Models implemented
 - Linear Regression
 - Decision Tree
