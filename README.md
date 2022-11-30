@@ -7,5 +7,6 @@ California Housing Prices on <a href="https://www.kaggle.com/datasets/camnugent/
 - Decision Tree
 - Ridge
 - Lasso
+- Polynomial regression
 - XBGRegressor
 - Random Forest Regressor
